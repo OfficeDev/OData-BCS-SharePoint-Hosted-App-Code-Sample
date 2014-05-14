@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package dslVersion="1.0.0.0" 
+        Id="13ff54b1-e342-4712-b73f-bdaf43b6aca3" 
+        solutionId="13ff54b1-e342-4712-b73f-bdaf43b6aca3" 
+        xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel" 
+        name="OData_BCS_SharePoint_Hosted_App_Code_Sample"
+        sharePointProductVersion="16.0">
+  <features>
+        <featureReference itemId="fc49eaa0-d44b-41f7-b84a-e3f078ac5814" />
+  </features>
+</package>
