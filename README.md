@@ -1,3 +1,14 @@
+---
+topic: sample
+products:
+- Office 365
+- SharePoint
+languages:
+- ASP
+extensions:
+  contentType: samples
+  createdDate: 5/14/2014 8:33:10 AM
+---
 OData-BCS-SharePoint-Hosted-App-Code-Sample
 ===========================================
 
