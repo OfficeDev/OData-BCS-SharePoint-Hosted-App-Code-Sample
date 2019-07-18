@@ -1,10 +1,10 @@
 ---
 topic: sample
 products:
-- Office 365
-- SharePoint
+- office-365
+- office-sp
 languages:
-- ASP
+- aspx
 extensions:
   contentType: samples
   createdDate: 5/14/2014 8:33:10 AM
